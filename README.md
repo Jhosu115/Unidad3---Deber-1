@@ -47,7 +47,7 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://github.com/Jhosu115/Unidad3---Deber-1/blob/main/WhatsApp%20Image%202021-08-23%20at%207.13.55%20PM.jpeg)
   
-  /div>
+ </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
   
