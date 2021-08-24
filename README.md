@@ -55,6 +55,8 @@ Ing. Darwin Omar Alulema Flores
   
 # 4. VIDEO
 
+https://www.youtube.com/watch?v=9lckBgWmA0U
+
 # 5. CONCLUSIONES
 
 En el trabajo entregado y realizado como grupo llegamos a la  conclusión  que al entender los Temas , el análisis de problemas y sus respectiva  resoluciones, los capítulos lleva un  importante conocimiento  para un futuro por muchas razones como por ejemplo el conocer que es un conductor, como funciona , cuales son sus partes y como se representa en un circuito ademas entendimos los diferentes variantes de transitorios inductivos 
